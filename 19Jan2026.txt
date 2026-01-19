@@ -1,0 +1,5 @@
+Concept Learned:
+        variables, data types, data conversion
+        operators
+        List and Tuple
+        Loops
