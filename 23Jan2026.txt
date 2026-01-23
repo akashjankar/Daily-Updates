@@ -1,0 +1,2 @@
+Concept Learned:
+        Learned ThreadPoolExecutor and ProcessPoolExecutor and also performed searching operations using regix.
