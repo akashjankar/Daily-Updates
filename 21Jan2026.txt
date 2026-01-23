@@ -1,0 +1,2 @@
+concept Learned:
+        Learn all CRUD operation in python api and implement it.
