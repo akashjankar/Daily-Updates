@@ -1,0 +1,2 @@
+concept Learned:
+        Learned how to work with log files means analyze data and searching data in the log files
