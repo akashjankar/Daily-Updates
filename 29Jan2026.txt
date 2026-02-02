@@ -1,0 +1,2 @@
+Concept Learned:
+        store user data into mysql databse using flask api and started frappe ERP next setup.
