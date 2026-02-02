@@ -1,0 +1,3 @@
+Concept Learned:
+      Start implementing small project named as IT Company Application Tracking System. in that learn how to create Doctype, Web Form, Web page, workflow, created Dashboard, create and added number cards in dashboard,
+      created Dashboard chart.
