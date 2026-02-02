@@ -1,0 +1,2 @@
+concept learned:
+      completed Frappe ERP Next setup and start learning features of that.
