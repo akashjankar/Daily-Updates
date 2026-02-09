@@ -1,0 +1,2 @@
+Concept Learned:
+        Learned how to use Notification Feature in the frappe Erp Next. when admin changes the status of the users application user automatically get a Notification of their status.
