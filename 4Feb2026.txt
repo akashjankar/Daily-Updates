@@ -1,0 +1,3 @@
+Concept Learned:
+        Started Working on Frontend design.Created first index page in that added about company button after click that user can see information related website.also learned how ro use built in sign in function of Erp Next and using that created feature of
+        signin and login in.
