@@ -1,0 +1,2 @@
+Concept Learned:
+      Created the web page for student home where given option for user to apply for a job. 
