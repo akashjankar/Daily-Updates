@@ -1,0 +1,2 @@
+Concept Learned:
+    Learned how to enable server script and user server script for reduce available vacency for perticular job domain when any student get select in that domain. also added one feature where user can see all the available vacency per domain.
