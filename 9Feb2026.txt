@@ -1,0 +1,3 @@
+Concept Learned:
+        Created frontend for admin . where after login as a admin they can see all aplied student and perform further actions such as select or reject. also shown a dashboard in admin home page where admin number of
+        applications , selected applications ....... . also added one feature in student home page where domain get removed when their available position becomes zeor.
