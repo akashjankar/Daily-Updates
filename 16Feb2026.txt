@@ -1,0 +1,2 @@
+Concept Learned:
+        added theory question option in the Test that feature, where mcq marks get automatically get calcuated and admin can decide theroy question marks .
