@@ -1,0 +1,2 @@
+Concept Learned:
+        Started Creating Test feature in my Project and created related Doctype and some frontend Part. 
