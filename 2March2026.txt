@@ -1,0 +1,2 @@
+Concept Learned:
+      Completed admin side ui of Application and Domain feature.
