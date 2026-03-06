@@ -1,0 +1,3 @@
+Concept Learned:
+      Added security to the test means disable copy paste for theory answer, disable tab switch if student change tab during test then test get auto submit, disabled 
+      text selection on the test tab.
