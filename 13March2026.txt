@@ -1,0 +1,2 @@
+Concept Learned:
+      added application rejection reason means admin can provide rejection reason for application after rejecting that application.
