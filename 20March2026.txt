@@ -1,0 +1,2 @@
+Concept Learned:
+      completed frontend part of custom signup page.
