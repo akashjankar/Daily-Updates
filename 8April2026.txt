@@ -1,0 +1,2 @@
+concept learned:
+        revised react concepts.
