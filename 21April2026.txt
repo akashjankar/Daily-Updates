@@ -1,0 +1,2 @@
+concept learned:
+      implemented sql alchemy concept , learned and implemented pydentic concept.
